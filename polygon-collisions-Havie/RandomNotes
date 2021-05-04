@@ -1,0 +1,13 @@
+Impulse J = Jn *N + Jtangental *T
+         (normal force)   (fromFriction)
+
+
+
+Jn / Ma   + ([SanJt - SatJn] / Ia)
+
+Eventually some matrix reduces down to : 
+deltaV = (1/ma + 1/mb) *J 
+
+Matrix: 
+[Mtt  , - Mnt]
+[-Mnt ,  Mnn] 

@@ -1,0 +1,25 @@
+Impulse J = Jn *N + Jtangental *T
+         (normal force)   (fromFriction)
+
+
+
+Jn / Ma   + ([SanJt - SatJn] / Ia)
+
+Eventually some matrix reduces down to : 
+deltaV = (1/ma + 1/mb) *J 
+
+Matrix: 
+[Mtt  , - Mnt]
+[-Mnt ,  Mnn] 
+
+
+
+change in Vn = Qn * Jn 
+change in Vt = Qt * Jn 
+
+
+Vna = Vni - Qn/Qt & Vti 
+
+EnergyStore = Vni*Vni / 2Qn 
+
+Vnf = -E Vni 
